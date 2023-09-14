@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=SithKnight&style=flat-square)
+![](https://hit.yhype.me/github/profile?user_id=145069307)
+
 <!--
 **SithKnight/SithKnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
