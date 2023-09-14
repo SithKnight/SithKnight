@@ -5,6 +5,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=145069307)
 
 <b>Note:</b> <span>add the rest of the profile here</span>
+
 ### Connect with me
 
 [<img align="left" alt="codewithkingsley.com" width="22" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
