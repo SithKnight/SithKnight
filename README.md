@@ -6,13 +6,6 @@
 
 <b>Note:</b> <span>add the rest of the profile here</span>
 
-### Connect with me
-
-[<img align="left" alt="codewithkingsley.com" width="22" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="SithKnight | Twitter" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="SithKnight | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="SithKnight | YouTube" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="SithKnight | Twitch" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]<br />
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SithKnight&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="SithKnight" /></p>
