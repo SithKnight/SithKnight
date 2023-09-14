@@ -4,6 +4,15 @@
 ![](https://komarev.com/ghpvc/?username=SithKnight&style=flat-square)
 ![](https://hit.yhype.me/github/profile?user_id=145069307)
 
+<b>Note:</b> <span>add the rest of the profile here</span>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SithKnight&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="SithKnight" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SithKnight&show_icons=true&locale=en&theme=tokyonight" alt="SithKnight" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SithKnight&&theme=tokyonight" alt="SithKnight" /></p>
+
 <!--
 **SithKnight/SithKnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
