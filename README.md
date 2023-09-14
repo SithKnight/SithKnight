@@ -1,4 +1,5 @@
 ### Hi there, I'm Kingsley 👋
+[![Twitter Follow](https://img.shields.io/twitter/follow/sithknight?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSithKnight&screen_name=sithknight)
 
 I am [Code Breaker][aws-hero] and a founder of [Betajob][betajob] - a company that helps build solutions using AWS and specializes in infrastructure as code, DevOps, and reusable infrastructure components.
 
