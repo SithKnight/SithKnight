@@ -1,5 +1,5 @@
-### Hi there, I'm Kingsley 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/antonbabenko?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fantonbabenko&screen_name=antonbabenko)
+<h1 align="center">Hi 👋, I'm Kingsley Obi</h1>
+<h3 align="center">A passionate coder and Sith Knight</h3>
 
 I am [Code Breaker][aws-hero] and a founder of [Betajob][betajob] - a company that helps build solutions using AWS and specializes in infrastructure as code, DevOps, and reusable infrastructure components.
 
@@ -10,8 +10,6 @@ I am [Code Breaker][aws-hero] and a founder of [Betajob][betajob] - a company th
 - Figure out best&worst practices (by asking "Why?"), and publishing them as [Terraform best practices](https://www.terraform-best-practices.com) and [Terragrunt Reference Architecture](https://github.com/antonbabenko/terragrunt-reference-architecture)
 - Open-source, Terraform and AWS
 - Making Terraform [live streams][youtube] and sending [weekly newsletters][weeklytf] is fun, too.
-<h1 align="center">Hi 👋, I'm Kingsley Obi</h1>
-<h3 align="center">A passionate coder and Sith Knight</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sithknight&label=Profile%20views&color=0e75b6&style=flat" alt="sithknight" /> </p>
 
@@ -19,20 +17,6 @@ I am [Code Breaker][aws-hero] and a founder of [Betajob][betajob] - a company th
 
 <p align="left"> <a href="https://twitter.com/sithknight" target="blank"><img src="https://img.shields.io/twitter/follow/sithknight?logo=twitter&style=for-the-badge" alt="sithknight" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [codewithkingsley.com](codewithkingsley.com)
-
-- 📝 I regularly write articles on [codewithkingsley.com](codewithkingsley.com)
-
-- 💬 Ask me about **reach, sveltfire, devops, develop**
-
-- 📫 How to reach me **kingsleyobi0011@gmail.com**
-
-- 📄 Know about my experiences [codewithkingsley.com/](codewithkingsley.com/)
-
-- ⚡ Fun fact **I have a Dark Force Inside**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://twitter.com/sithknight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sithknight" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sithknight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sithknight" height="30" width="40" /></a>
 </p>
@@ -48,14 +32,3 @@ I am [Code Breaker][aws-hero] and a founder of [Betajob][betajob] - a company th
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sithknight&show_icons=true&locale=en" alt="sithknight" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sithknight&" alt="sithknight" /></p>
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
